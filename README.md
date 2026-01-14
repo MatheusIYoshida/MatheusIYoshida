@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there 👋, I'm Matheus Yoshida
 
-<!--
-**MatheusIYoshida/MatheusIYoshida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table border="none">
+  <tr>
+    <td>
+      💻 <strong>Full Stack Developer</strong>
+      <br/><br/>
+      📚 <strong>Computer Engineering</strong> student at UTFPR
+      (Universidade Tecnológica Federal do Paraná).
+      <br/><br/>
+      👩‍💻 Currently, I work as a software developer at
+      <strong><a href="https://forlogic.net/pt/">Forlogic</a></strong>,
+      where I contribute to building scalable and high-quality solutions.
+      <br/><br/>
+      🐷💚 Palmeiras supporter
+    </td>
+    <td width="200" align="center">
+      <img src="./Assets/tigrinho_joinha.png" width="180"/>
+    <td/>
+  </tr>
+</table>
